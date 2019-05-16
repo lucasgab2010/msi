@@ -1,7 +1,7 @@
 <template>
 <div class="frente">
   <div id="app">
-    <img src="./assets/logo.png">
+    <img src="https://lucasgab2010.github.io/msi/dist/logo.png">
     <h1>{{ msg }}</h1>
   </div>
 </div>
